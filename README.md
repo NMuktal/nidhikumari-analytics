@@ -7,12 +7,12 @@
 
 ---
 
-## 👩‍💼 About Me
+## About Me
 I am a results-driven **IT Business Analyst** with 6+ years of experience delivering **data-driven insights, BI solutions, and analytics platforms** across finance, technology, and enterprise systems. I specialize in transforming complex business requirements into scalable dashboards, ETL pipelines, and actionable insights.
 
 ---
 
-## 💼 Professional Experience Highlights
+## Professional Experience Highlights
 - Designed **end-to-end BI solutions** using **NetSuite, NSAW, SQL**
 - Built **ETL pipelines** using star schema models for enterprise reporting
 - Delivered dashboards using **Power BI, Tableau, Excel, SQL**
@@ -22,7 +22,7 @@ I am a results-driven **IT Business Analyst** with 6+ years of experience delive
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Data & BI Tools**
 - SQL, Tableau, Power BI, Excel (Macros, Pivot Tables)
@@ -39,7 +39,7 @@ I am a results-driven **IT Business Analyst** with 6+ years of experience delive
 
 ---
 
-## 📊 Featured Projects (Coming Soon 🚀)
+## Featured Projects (Coming Soon)
 ✔ BI Dashboards (Power BI / Tableau)  
 ✔ SQL Data Analysis Projects  
 ✔ Python Predictive Analytics  
@@ -59,5 +59,5 @@ I am a results-driven **IT Business Analyst** with 6+ years of experience delive
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 Feel free to reach out via email or LinkedIn. I’m open to collaboration and analytics projects!
